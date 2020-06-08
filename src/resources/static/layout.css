@@ -1,0 +1,15 @@
+* {
+    
+}
+
+.home-ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    }
+
+@media (min-width: 600px) {
+    }
+
+@media (min-width: 768px) {
+    }
